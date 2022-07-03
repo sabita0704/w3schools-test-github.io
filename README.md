@@ -7,4 +7,3 @@ This repository is built step by step in the tutorial.
 
 It now includes steps of GitHub
 Add some changes to the README.md file.
-Working using the GitHub Flow
